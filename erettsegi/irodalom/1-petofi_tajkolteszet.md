@@ -1,7 +1,9 @@
-# Petőfi Sándor tájköltészete  
+# Petőfi Sándor  
 - 1844 - Versek c. versgyűjteménye  
 	- Ebben az évben keletkezett első kiemelkedő tájköltészeti alkotása is, "Az alföld"  
 - Tájköltészet = felvilágosodás + romantika  
+- Petőfi tájköltészetében jelentős szerepe van az Alföldnek  
+	- Az Alföld nála az otthon és szabadság jelképe  
 ## Petőfi Sándor: Az alföld  
 - Keletkezett: 1844  
 - Címértelmezés  
@@ -9,33 +11,33 @@
 - Műfaji jellegzetesség:  
 	- Tájleíró költemény: A táj egyes elemeinek leírása dominál  
 	- Ódának is tekinthető  
-- Szerkezet  
-	- 1-2. vsz.  
-		- Kétféle tájideál szembeállításával kezd  
-			- Elismeréssel adózik a vadregényes tájnak, a zordon hegyvidéknek, de  
-			- Ezzel szembeállítja a rónát, és az alföldi síyk vidéket (fent <=> lent)  
-		- Sas metafóra  
-			- Romantika egyik legismertebb motívuma  
-			- Fenséget, végelen magasságot, szabadság képzetét egyszerre hordozza  
-			- A teljes metafórában ezzel a madárral azonosul  
-		- 3\. vsz.  
-			- Itt kezdődik az alföld leírása  
-			- Több nézőpontról mutatja meg a költő  
-			- A sas távlatából, felülről elkezdi az alföld leírását  
-		- 4-10. vsz.  
-			- Lefelé közlekedik, majd leér a földre (zoom technika)  
-			- Mindenféle életképet szemügyre vesz  
-				- Delelő gulyát a gémes kúttal  
-				- Nyaraló ménest a csikóssal  
-				- Tanyák közelében a megművelt földeket  
-				- Tanyák szomszédságában a tavat a vadludakkal, a nádast  
-				- A csárdát a betyárral  
-				- Az apró homoki állatokat és növényeket  
-		- 11\. vsz.  
-			- A tekintet távolodik, most a horizont felé  
-		- 12\. vsz.  
-			- Az 1-2. versszakban elkezdett vallomás visszatér, megfogalmazza kötődését az alföldhöz  
-			- A Szózat motívumvilágát idézi  
+### Szerkezet  
+- 1-2. vsz.  
+	- Kétféle tájideál szembeállításával kezd  
+		- Elismeréssel adózik a vadregényes tájnak, a zordon hegyvidéknek, de  
+		- Ezzel szembeállítja a rónát, és az alföldi síyk vidéket (fent <=> lent)  
+	- Sas metafóra  
+		- Romantika egyik legismertebb motívuma  
+		- Fenséget, végelen magasságot, szabadság képzetét egyszerre hordozza  
+		- A teljes metafórában ezzel a madárral azonosul  
+- 3\. vsz.  
+	- Itt kezdődik az alföld leírása  
+	- Több nézőpontról mutatja meg a költő  
+	- A sas távlatából, felülről elkezdi az alföld leírását  
+- 4-10. vsz.  
+	- Lefelé közlekedik, majd leér a földre (zoom technika)  
+	- Mindenféle életképet szemügyre vesz  
+		- Delelő gulyát a gémes kúttal  
+		- Nyaraló ménest a csikóssal  
+		- Tanyák közelében a megművelt földeket  
+		- Tanyák szomszédságában a tavat a vadludakkal, a nádast  
+		- A csárdát a betyárral  
+		- Az apró homoki állatokat és növényeket  
+- 11\. vsz.  
+	- A tekintet távolodik, most a horizont felé  
+- 12\. vsz.  
+	- Az 1-2. versszakban elkezdett vallomás visszatér, megfogalmazza kötődését az alföldhöz  
+	- A Szózat motívumvilágát idézi  
 ## Petőfi Sándor: A puszta, télen  
 - Keletkezett: 1848 Január  
 - Címértelmezés  
@@ -44,3 +46,32 @@
 		- Puszta: üresség, értéktelenség  
 		- Tél: Az elmúlás jelképe  
 - Műfaj: Tájleíró költemény  
+- Verselés  
+- Rímképlet: AABB (Páros rímek)  
+### Szerkezet  
+- 1\. vsz.  
+	- Kezdő felkiáltással indul  
+	- Az ősz megszemélyesítése jelenik meg  
+	- A hangulat még bensőséges, kedélyes  
+- 2\. vsz.  
+	- Negatív festéssel mutatja be a téli pusztát  
+		- Azt sorolja, ami hiányzik, nem ami van  
+	- Hiányoznak a nyári táj hangjai  
+	- A nyár és tél szembeállítása elégikus hangulatot teremt  
+		- A jelen kifosztottság  
+		- A múlt a nyár gazdagsága  
+- 3\. vsz.  
+	- A hangok hiánya után a mozdulatlanságra mutat rá  
+- 4-6\. vsz.  
+	- A figyelem az emberi élet helyszíneihez fordul  
+	- Üresek, csendesek az emberi világ helyszínei  
+	- Az emberi és állati élet is lelassult  
+- 7\. vsz.  
+	- A korábbi békés mozdulatlanságot leváltja a viharos dinamika  
+		- A szelek és viharok kavargása jelenik meg  
+		- A táj fenyegetővé válik  
+	- Megjelenik az emberi lét jelképes látomása  
+- 8\. vsz.  
+	- A hangulat társadalom-politikai jelentést kap  
+	- A lemenő nap képe a Habsburg-ház bukására, trónfosztására utalhat  
+	- A vers végén a tájleírás forradalmi szemlélettel kötődik össze  
