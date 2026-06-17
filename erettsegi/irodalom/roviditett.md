@@ -291,6 +291,8 @@
 - Reneszánsz vonások  
 	- Természet szépsége  
 	- Hazaszeretet  
+- Például: Egy katonaének  
 ### Istenes költészet  
 - Balassi Istenhez fordul  
 - Gyakran könyörög Isten felé segítségért  
+- Példa: Adj már csendességet  
